@@ -2,7 +2,7 @@
 
 ![screenshot preview](sibling-screenshot.png)
 
-Goofing around to solve a challenge posed to Eric Meyer in a [2018 episode of ShopTalk Show](https://shoptalkshow.com/331-think-like-front-end-developer-eric-meyer/#t=1:03:18) about how to build [this poster design](https://dribbble.com/shots/4858587-Sibling) by Steve Wolf as a front-end webpage.
+Goofing around to solve a challenge posed to Eric Meyer in a [2018 episode of ShopTalk Show](https://shoptalkshow.com/331-think-like-front-end-developer-eric-meyer/#t=1:03:18) about how to create [this poster design](https://dribbble.com/shots/4858587-Sibling) by Steve Wolf as a front-end webpage.
 
 Uses:
 
